@@ -1,0 +1,42 @@
+.back{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.tree{
+    float: right;
+    margin-top: -95px;
+}
+
+.reservation{
+    clear: both;
+    font-size: 32px;
+    font-family: "Noto Sans JP Bold";
+    color: #707070;
+    text-align: center;
+    margin-top: -20px;
+}
+
+
+.tableWrap{
+    background-color: #6DB45D;
+    width: 795px;
+    height: 525px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px 0 rgba(0 , 0, 0, 0.3);
+    margin-top: 34px;
+    margin-left: 320px;
+}
+
+.table{
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    font-family: "Noto Sans JP Medium";
+    padding-top: 240px;
+}
+
+.btn{
+    margin-left: 300px;
+    margin-top: 160px;
+}

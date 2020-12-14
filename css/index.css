@@ -1,0 +1,149 @@
+body{
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+}
+
+.sns{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 1200px;
+}
+
+.sns p{
+    margin-left: 15px;
+}
+
+.logo{
+    margin-left: 100px;
+    margin-top: -60px;
+}
+
+.title{
+    font-family: "Fredericka the Great";
+    font-size: 60px;
+    color: #E86553;
+    margin-top: 200px;
+    margin-left: 880px;
+}
+
+.mini-title{
+    color: #E86553;
+    font-size: 28px;
+    margin-top: 40px;
+    margin-left: 800px;
+}
+
+.img-right{
+    text-align: right;
+    margin-top: 100px;
+}
+
+.img-left{
+    text-align: left;
+    margin-top: 100px;
+}
+
+.skill{
+    /* display: flex; */
+    background-color: #6BB25B;
+    border-radius: 20px;
+    width: 1166px;
+    height: 443px;
+    margin: 40px auto;
+}
+
+.skill-img{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+
+.skill-txt{
+    font-size: 28px;
+    color: #ffffff;
+    font-family: "Noto Sans JP Medium";
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.txt-title{
+    color: #707070;
+    font-size: 42px;
+    font-family: "Noto Sans JP Bold";
+    margin-top: 450px;
+    margin-left: 580px;
+}
+
+iframe{
+    margin-top: 90px;
+    margin-left: 450px;
+}
+
+span{
+    font-family: "Fredericka the Great";
+    color: #E86553;
+}
+
+.reservation{
+    align-items: center;
+    display: flex;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.setumei{
+    font-size: 28px;
+    font-family: "Noto Sans JP Medium";
+    color: #707070;
+    margin-left: 40px;
+}
+
+.reservation-btn{
+    margin-left: 500px;
+    margin-top: 60px;
+}
+
+.web-setumei{
+    font-size: 28px;
+    font-family: "Noto Sans JP Medium";
+    color: #707070;
+    text-align: center;
+    margin-top: 160px;
+}
+
+.map{
+    margin-left: 315px;
+    margin-top: 160px;
+}
+
+.click-btn{
+    margin-top: 65px;
+    margin-left: 460px;
+}
+
+.footer{
+    background-color: #6DB45D;
+    height: 120px;
+    display: flex;
+    color: #ffffff;
+    font-size: 22px;
+    padding-top: 50px;
+    padding-left: 320px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 40px;
+}
+
+.footer a:hover{
+    border-bottom: 5px solid #FFC000;
+    line-height: 0.4;
+}
+
+.tree{
+    margin-left: 1060px;
+    margin-top: 105px;
+}

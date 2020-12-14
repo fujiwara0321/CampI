@@ -1,0 +1,73 @@
+.back{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.tree{
+    float: right;
+    margin-top: -95px;
+}
+
+.reservation{
+    clear: both;
+    font-size: 32px;
+    font-family: "Noto Sans JP Bold";
+    color: #707070;
+    text-align: center;
+    margin-top: -20px;
+}
+
+
+.tableWrap{
+    background-color: #6DB45D;
+    width: 795px;
+    height: 525px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px 0 rgba(0 , 0, 0, 0.3);
+    margin-top: 34px;
+    margin-left: 320px;
+}
+
+.table{
+    padding-top: 120px;
+}
+
+th{
+    padding-left: 82px;
+    padding-bottom: 25px;
+    text-align: left;
+    color: white;
+    font-family: "Noto Sans JP Bold";
+    font-size: 20px;
+}
+
+span{
+    color: #FFC000;
+    font-size: 15px;
+    font-family: "Noto Sans JP Bold";
+}
+
+td{
+    padding-bottom: 25px;
+    padding-left: 100px;
+}
+
+input{
+    background-color: white;
+    color: #707070;
+}
+
+select{
+    background-color: white;
+    color: #707070;
+    border-radius: 0;
+    background-image: url("../img/btn-select.svg");
+    background-repeat: no-repeat;
+    background-position: right 5px center;
+    padding: 0 60px 0 10px;
+}
+
+.btn{
+    margin-left: 300px;
+    margin-top: 40px;
+}

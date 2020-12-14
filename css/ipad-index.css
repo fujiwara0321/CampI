@@ -1,0 +1,101 @@
+.back{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.img-right{
+    float: right;
+    margin-top: -10px;
+}
+
+.big-txt{
+    font-size: 32px;
+    font-family: "Noto Sans JP";
+    font-weight: 700;
+    color: #707070;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+
+.txt-title{
+    color: #707070;
+    font-size: 28px;
+    font-family: "Noto Sans JP";
+    font-weight: 700;
+    margin-top: 65px;
+    margin-left: 305px;
+}
+
+.map{
+    margin-top: 70px;
+    margin-left: 120px;
+    margin-bottom: 100px;
+}
+
+.arWrap{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.ar-txt{
+    font-size: 22px;
+    font-family: "Noto Sans JP Medium";
+    margin-top: 45px;
+    margin-left: 35px;
+    color: #707070;
+}
+
+.ar-setumei{
+    font-size: 18px;
+    font-family: "Noto Sans JP Medium";
+    margin-top: 100px;
+    margin-left: -93px;
+    color: #707070;
+}
+
+.spr-setumei{
+    font-size: 18px;
+    font-family: "Noto Sans JP Medium";
+    margin-top:  100px;
+    margin-left: -153px;
+    color: #707070;
+}
+
+.web-txt{
+    margin-top: 40px;
+    text-align: center;
+    color: #707070;
+    font-size: 18px;
+    font-family: "Noto Sans JP Medium";
+}
+
+.click-btn{
+    margin-top: 65px;
+    text-align: center;
+}
+
+.footer{
+    background-color: #6DB45D;
+    height: 120px;
+    display: flex;
+    color: #ffffff;
+    font-size: 22px;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover{
+    border-bottom: 5px solid #FFC000;
+    line-height: 0.4;
+}
+
+.tree{
+    margin-left: 420px;
+    margin-top: 105px;
+}
